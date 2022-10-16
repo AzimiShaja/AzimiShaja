@@ -1,0 +1,3 @@
+- 👋 Hi, I’m SHJA
+- 👀 I’m interested in coding 
+- 🌱 I’m currently learning JAVA
