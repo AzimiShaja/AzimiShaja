@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm SHAJA AZIMI</h1>
 <h3 align="center">Design and Development</h3>
 
-- 🌱 I’m currently learning **JAVA, HTML , CSS ,JavaScript**
+- 🌱 I’m currently learning **JAVA, HTML , CSS , and JavaScript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SHJAx19?tab=repositories](https://github.com/SHJAx19?tab=repositories)
 
