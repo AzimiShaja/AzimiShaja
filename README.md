@@ -6,6 +6,8 @@ My GitHub repositories reflect my dedication to building high-quality software t
 
 I believe that collaboration and knowledge sharing are essential for success in the rapidly-evolving world of computer engineering, and I am always eager to learn from and contribute to the wider community. If you're interested in working together or just want to chat about all things tech, feel free to connect with me on GitHub!
 
+I am dedicated to honing my skills and refining my projects every day, constantly striving to improve my abilities and stay at the forefront of my field.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/azimishja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="azimishja" height="30" width="40" /></a>
