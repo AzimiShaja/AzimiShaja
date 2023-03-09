@@ -1,13 +1,10 @@
 <h1 align="center">Hi 👋, I'm SHAJA AZIMI</h1>
-<h3 align="center">Design and Development</h3>
 
-- 🌱 I’m currently learning **JAVA, HTML , CSS ,JavaScript**
+"As a passionate computer engineer, I am constantly exploring new technologies and programming languages to expand my skills and knowledge. With expertise in areas such as software development, data structures and algorithms, and hardware design, I am committed to creating innovative solutions that solve complex problems.
 
-- 👨‍💻 All of my projects are available at [https://github.com/SHJAx19?tab=repositories](https://github.com/SHJAx19?tab=repositories)
+My GitHub repositories reflect my dedication to building high-quality software that is efficient, scalable, and maintainable. Whether I'm working on a personal project or contributing to an open-source community, I always strive to produce clean, well-documented code that adheres to best practices and industry standards.
 
-- 📫 You can reach me **Ahmad.shojaazimi@gmail.com**
-
-- ⚡Future: **Full Stack Developer**
+I believe that collaboration and knowledge sharing are essential for success in the rapidly-evolving world of computer engineering, and I am always eager to learn from and contribute to the wider community. If you're interested in working together or just want to chat about all things tech, feel free to connect with me on GitHub!"
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
