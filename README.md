@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm SHAJA AZIMI</h1>
+<h1 align="center">Hi 👋, I'm SHAJA</h1>
 <h2 align = "center" > About ME </h2>
 As a passionate computer engineer, I am constantly exploring new technologies and programming languages to expand my skills and knowledge. With expertise in areas such as software development, data structures and algorithms, and hardware design, I am committed to creating innovative solutions that solve complex problems.
 
