@@ -1,5 +1,4 @@
-<h1 align="center">Hi , I'm SHJA</h1>
-<h2 align = "center" > About ME </h2>
+<h1 align="center"> Hey, I'm SHJA</h1>
 As a passionate computer engineering student , I am constantly exploring new technologies and programming languages to expand my skills and knowledge. With expertise in areas such as software development, data structures and algorithms, and hardware design, I am committed to creating innovative solutions that solve complex problems.
 
 My GitHub repositories reflect my dedication to building high-quality software that is efficient, scalable, and maintainable. Whether I'm working on a personal project or contributing to an open-source community, I always strive to produce clean, well-documented code that adheres to best practices and industry standards.
