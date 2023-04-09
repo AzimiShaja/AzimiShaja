@@ -3,7 +3,10 @@
       <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;Its++Shaja+Azimi....;Nice+to+meet+you!&center=true&size=30">
     </a>
   </h>
-# 🗣️ Offical Portfolio
+  </h>
+  <br>
+  <br>
+# 🗣️ Offical Portfolio <br>
 https://shjax19.github.io/Shja_Azimi-IO/ <br> <br>
 
 # 💻 My Skills: 
