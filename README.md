@@ -3,9 +3,12 @@
       <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;Its++Shaja+Azimi....;Nice+to+meet+you!&center=true&size=30">
     </a>
 <h3 align="center">⚡Passion and Perseverance</h3>
-<span style="color: red"> [My profile -> ](https://azimishaja.github.io/official-portfolio/)</span>
-
-
+ <h3 align="center">📚🧠 I'm Currently mastering the Java fundementals </h3>
+<br/>
+  
+  
+ <span align="center">You can check out my portfolio 👉</span>
+ [shjaazimi.com](https://azimishaja.github.io/official-portfolio/)
 
 <br/>
 <h3 align="left">Connect with me:</h3>
