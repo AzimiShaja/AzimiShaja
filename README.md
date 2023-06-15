@@ -3,7 +3,7 @@
       <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;Its++Shaja+Azimi....;Nice+to+meet+you!&center=true&size=30">
     </a>
 <h3 align="center">⚡Passion and Perseverance</h3>
- <h3 align="center">📚🧠 I'm Currently mastering the Python fundementals </h3>
+ <h3 align="center">📚🧠 I'm Currently Game Development with unity x C# </h3>
 <br/>
   
   
