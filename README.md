@@ -8,7 +8,7 @@
   
   
  <span align="center">You can check out my portfolio 👉</span>
- [shjaazimi.com](https://azimishaja.github.io/official-portfolio/)
+ [shjaazimi.com](https://shjaazimi.netlify.app/)
 
 <br/>
 <h3 align="left">Connect with me:</h3>
