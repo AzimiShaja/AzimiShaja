@@ -3,7 +3,7 @@
       <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;Its++Shaja+Azimi....;Nice+to+meet+you!&center=true&size=30">
     </a>
 <h3 align="center">⚡Passion and Perseverance</h3>
- <h3 align="center">📚🧠 Road to earn Javascript Certification </h3>
+ <h3 align="center">📚🧠 Currently Conquering javascript </h3>
 <br/>
   
   
