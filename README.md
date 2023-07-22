@@ -6,11 +6,11 @@
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left"  >About me</h2>
 
 ###
 
-<h3 align="left">📚 I'm currently learning Express.js in node.js<br> <br> 🎯 Next destination:  Full-Stack Web Developer<br> <br> 🎲 Fun fact: I Can hack your phone :)</h3>
+<h4 align="left">📚 I'm currently learning Express.js in node.js<br> <br> 🎯 Next destination:  Full-Stack Web Developer<br> <br> 🎲 Fun fact: I Can hack your phone :)</h4>
 
 ###
 
