@@ -10,7 +10,7 @@
 
 ###
 
-<h3 align="left">📚 I'm currently learning node.js<br>🎯 Next destination:  Full-Stack Web Developer<br>🎲 Fun fact: I can hack your phone :)</h3>
+<h3 align="left">📚 I'm currently learning node.js + Express.js <br>🎯 Next destination:  Full-Stack Web Developer<br>🎲 Fun fact: I can hack your phone :)</h3>
 
 ###
 
