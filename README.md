@@ -1,15 +1,3 @@
-<h1 align="left">Hey 👋 What's up?</h1>
-
-###
-
-<h2 align="left">I am Shja, Web Developer.</h2>
-
-###
-
-<h2 align="left"  >About me</h2>
-
-###
-
 <h4 align="left">📚 I'm currently learning Express.js in node.js<br> <br> 🎯 Next destination:  Full-Stack Web Developer<br> <br> 🎲 Fun fact: I Can hack your phone :)</h4>
 
 ###
