@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">I am Shja, a Web Developer.</h2>
+<h2 align="left">I am Shja, Developer.</h2>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<h3 align="left">📚 I'm currently learning node.js<br>🎯 Next destination:  Full-Stack Web Developer<br>🎲 Fun fact: I Can hack your phone :)</h3>
+<h3 align="left">📚 I'm currently learning node.js<br>🎯 Next destination:  Full-Stack Web Developer<br>🎲 Fun fact: I can hack your phone :)</h3>
 
 ###
 
