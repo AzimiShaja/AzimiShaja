@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">I am Shja, Developer.</h2>
+<h2 align="left">I am Shja, Web Developer.</h2>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<h3 align="left">📚 I'm currently learning node.js + Express.js <br>🎯 Next destination:  Full-Stack Web Developer<br>🎲 Fun fact: I can hack your phone :)</h3>
+<h3 align="left">📚 I'm currently learning Express.js in node.js<br>🎯 Next destination:  Full-Stack Web Developer<br>🎲 Fun fact: I Can hack your phone :)</h3>
 
 ###
 
@@ -50,6 +50,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="40" alt="apple logo"  />
 </div>
 
 ###
