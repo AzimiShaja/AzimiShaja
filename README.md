@@ -1,4 +1,4 @@
-<h4 align="left">📚 I'm currently learning Express.js in node.js<br> <br> 🎯 Next destination:  Full-Stack Web Developer<br> <br> 🎲 Fun fact: I Can hack your phone :)</h4>
+<h3 align="left">📚 I'm currently learning node.js<br>🎯 Next destination:  Full-Stack Web Developer<br>🎲 Fun fact: I Can hack your phone :)</h3>
 
 ###
 
@@ -41,7 +41,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="40" alt="apple logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
 </div>
 
 ###
