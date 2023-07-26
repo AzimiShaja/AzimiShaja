@@ -1,4 +1,4 @@
-<h3 align="left">📚 I'm currently learning { node.js, RESTfull API, Express.js } <br>🎯 Next destination:  Full-Stack Engineer</h3>
+<h3 align="center">📚 I'm currently learning { node.js, RESTfull API, Express.js } <br>🎯 Next destination:  Full-Stack Engineer</h3>
 <h4> Stack: MERN </h4>
 
 <h2 align="left">I play with</h2>
