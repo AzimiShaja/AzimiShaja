@@ -1,5 +1,4 @@
-<h3 align="center"> I'm currently Working on a big project with METU x Gazi University Team.
-<br>🎯 Next destination:  Full-Stack Engineer</h3>
+<h3>🎯 Next destination:  Full-Stack Engineer</h3>
 <h4> Stack: MERN </h4>
 
 <h2 align="left">I play with</h2>
