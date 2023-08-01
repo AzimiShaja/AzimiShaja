@@ -1,3 +1,4 @@
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=900&pause=1000&color=F71919&center=true&vCenter=true&width=440&lines=SHJA+for+a+Reason" alt="Typing SVG" />
 <h3>🎯 Next destination:  Full-Stack Engineer</h3>
 <h4> Stack: MERN </h4>
 
