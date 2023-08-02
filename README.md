@@ -2,7 +2,7 @@
 <h3>🎯 Next destination:  Full-Stack Engineer</h3>
 <h4> Stack: MERN </h4>
 
-<h2 align="left">I play with</h2>
+<h2 align="left">Tech Stack: </h2>
 
 ###
 
