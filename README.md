@@ -4,7 +4,8 @@
 
 <br/>
 
-<h3>check out it my portfolio: https://shjaazimi.netlify.app/ </h3>
+<h3>Check out my portfolio: <a href="https://shjaazimi.netlify.app/" target="_blank" rel="noopener noreferrer">shjaazimi</a></h3>
+
 
 
 <h2 align="left">Tech Stack: </h2>
