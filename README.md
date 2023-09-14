@@ -20,7 +20,8 @@
 
 ###
 
-<h1 align="center">Hey there 👋, I'am Shaja, Front-End React Developer</h1>
+<h1 align="center">Hey there 👋</h1>
+<h3 align="center"> I'am Shaja, a Front-End React Developer</h3>
 
 ###
 
