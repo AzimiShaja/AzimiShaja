@@ -1,4 +1,4 @@
-<h1 align="left">Freelance Front-end Developer</h1>
+<h1 align="left">Front-end Developer</h1>
 
 ###
 ###
